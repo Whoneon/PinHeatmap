@@ -1,6 +1,8 @@
 
 
 ```python
+#Thanks to github.com/danielmiessler/SecLists/ for the dataset
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pylab as plt
